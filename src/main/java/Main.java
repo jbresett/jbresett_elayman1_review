@@ -1,3 +1,11 @@
+/*
+File: Main.java
+Author:	amehlhas
+Date: 2/18/2018
+
+Description: main method for running the program.
+*/
+
 package main.java;
 
 import java.io.BufferedReader;
